@@ -196,9 +196,6 @@ ul li a:hover {
     transition: all 0.3s ease-in-out
 }
 
-.header_icon {
-    display: none;
-}
 
 @media screen and (max-width: 767px) {
     .menu {
@@ -221,5 +218,11 @@ ul li a:hover {
 
     i {
         font-size: 1.5rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .header_icon{
+        display: none;
     }
 }
