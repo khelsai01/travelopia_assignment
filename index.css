@@ -208,7 +208,7 @@ ul li a:hover {
         width: 10%;
     }
 
-    .header_icon {
+    /* .header_icon {
         display: block;
         width: 30px;
         height: 25px;
@@ -218,11 +218,5 @@ ul li a:hover {
 
     i {
         font-size: 1.5rem;
-    }
-}
-
-@media screen and (min-width: 768px) {
-    .header_icon{
-        display: none;
-    }
+    } */
 }
