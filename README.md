@@ -122,15 +122,16 @@ travelopia_assignment/
 Detailed instructions on how to install, configure, and get the project running. For Tasks Manager app projects, guide the reviewer how to check supabase database etc.
 
 ***For local***
-```bash 
-git clone `url of tasks manager app`
-cd travelopia_assignment
-right click on index.html -> click on open with live server.
-opend at browser
+```bash
+. open CMD terminal
+. git clone `https://github.com/khelsai01/travelopia_assignment.git`
+. cd travelopia_assignment
+. right click on index.html -> click on open with live server.
+. opend at browser
 ```
 
 ```bash
-travelopia hero secton with navbar and footer
+travelopia hero secton with navbar and footer and popup alert box with Hello World.
 ```
 
 ## Landing page of task Manager
