@@ -39,8 +39,13 @@ travelopia_assignment/
 
     In the Navbar have two portion left corner have name of project, right side have some navigation components.
     - for achive this style by flex property for align the content in row
-    - One humburger icon have given for large screen it's display none and for small screen Display block property use
-    
+    - One humburger icon have given for large screen it's display none and for   small screen Display block property use.
+    - Navbar has been responsive for the all screen size. Achive by media quary property of CSS.
+
+### Image section
+
+
+### footer section
 
 ## Installation & Getting started
 Detailed instructions on how to install, configure, and get the project running. For Tasks Manager app projects, guide the reviewer how to check supabase database etc.
