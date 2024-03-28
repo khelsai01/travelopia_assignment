@@ -51,13 +51,13 @@ travelopia_assignment/
  ![navbar](https://github.com/khelsai01/travelopia_assignment/assets/119441119/30fcf68f-b5e6-40cc-b7b4-117899ca5fac)
 
     In the Navbar have two portion left corner have name of project, right side have some navigation components.
-    - for achive this style by flex property for align the content in row
+    - for Achieve this style by flex property for align the content in row
     - Height of the navebar is 100px according to given in problem.
     
 ![navbar humb](https://github.com/khelsai01/travelopia_assignment/assets/119441119/77787d0d-ebf4-4d53-9482-7b1319caa7d9)
 
-    - One humburger icon have given from external icon libery by using CDN link. And given the designing for large screen it's display none and for small screen Display block property use.
-    - Navbar has been responsive for the all screen size. Achive by media quary property of CSS.
+    - One humburger icon have given from external icon library by using CDN link. And given the designing for large screen it's display none and for small screen Display block property use.
+    - Navbar has been responsive for the all screen size. Achieve by media quary property of CSS.
 
 ### Image section
 
@@ -66,9 +66,9 @@ travelopia_assignment/
 
      In the hero section One image is taken at the middle of the header and footer section
      - Image is full-width, full-height, and fluied responsive
-     - Achive for responsive size of image is by  .image-container {height: calc(100vh - 200px);width: 100} and .image-container img {height: 100%;object-fit: cover;width: 100%}
-     - Decide to take height in calc function, whne the screen size change then the height is adjest according to the available height and also remove my 100px+100px of header and footer height.
-     - Image width is 100% and object-fit:cover is taken, at the responsive size of screen the image is adjest the size and fit on cover.
+     - Achieve for responsive size of image is by  .image-container {height: calc(100vh - 200px);width: 100} and .image-container img {height: 100%;object-fit: cover;width: 100%}
+     - Decide to take height in calc function, when the screen size change then the height is adjust according to the available height and also remove my 100px+100px of header and footer height.
+     - Image width is 100% and object-fit:cover is taken, at the responsive size of screen the image is adjust the size and fit on cover.
 
      Overlay
      - Overlay section is given on over to image and then after the image is look some blur like .
@@ -106,7 +106,7 @@ travelopia_assignment/
 
     Cleck Me button 
     on click on Click Me button alert popup box appear on with the Hello World !! text .
-    - By javascript and CSS achive this functionality
+    - By javascript and CSS Achieve this functionality
 
 ### footer section
 
@@ -119,7 +119,7 @@ travelopia_assignment/
  
 
 ## Installation & Getting started
-Detailed instructions on how to install, configure, and get the project running. For Tasks Manager app projects, guide the reviewer how to check supabase database etc.
+Detailed instructions on how to install, configure, and get the project running. For Tasks Manager app projects, guide the reviewer how start the project local etc.
 
 ***For local***
 ```bash
