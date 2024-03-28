@@ -51,7 +51,7 @@ ul {
 
 ul li a {
     color: black;
-    font-size: 1.2em;
+    font-size: 1.1em;
     text-decoration: none;
     font-weight: 500;
 }
@@ -104,20 +104,23 @@ ul li a:hover {
 .main-content-title p {
     margin-bottom: 10px;
     font-size: 16px;
-  
+
 }
-.main-title-2{
+
+.main-title-2 {
     line-height: 1.4545454545em;
     font-weight: 400;
     font-family: "Playfair Display", serif;
+    font-size: 2rem;
 }
+
 .main-content-btn {
     background-color: #fff;
     border: none;
     border-radius: 1.5rem;
     color: #000;
     cursor: pointer;
-    font-size: 20px;
+    font-size: 1.2em;
     font-weight: 500;
     margin-top: 30px;
     overflow: hidden;
@@ -126,18 +129,19 @@ ul li a:hover {
     transition: all .3s linear;
     z-index: 1
 }
+
 .popup {
     align-items: center;
     background-color: #7dd9f5;
     border-radius: 10px;
     color: #fff;
     display: flex;
-    font-size:1.5rem;
-    font-weight:600;
+    font-size: 1.5em;
+    font-weight: 600;
     height: 120px;
     justify-content: center;
     width: 250px
-} 
+}
 
 .alert {
     animation: popin .4s ease-in-out;
@@ -180,7 +184,7 @@ ul li a:hover {
     font-weight: 500
 }
 
-.header_icon{
+.header_icon {
     display: none;
 }
 
@@ -205,5 +209,75 @@ ul li a:hover {
 
     i {
         font-size: 1.5rem;
+    }
+
+}
+
+@media screen and (max-width: 550px) {
+    .main-title-2 {
+        font-size: 1.7em;
+    }
+    .header .icon p{
+        letter-spacing: 3px;
+        font-size: 1.6em;
+
+    }
+    .icon {
+        margin-left: 10px;
+    }
+    .main-content-title p {
+        font-size: 1.8em;
+    }
+
+    .footer {
+        font-size: 0.9em;
+    }
+
+    .popup {
+        width: 200px;
+        height: 100px;
+        font-size: 1.2em;
+        font-weight: 400;
+    }
+    .main-content-btn{
+        font-size: 1.4em;
+        padding: 5px 25px;
+    }
+}
+
+@media screen and (max-width:450px) {
+    .main-title-2 {
+        font-size: 1.8em;
+    }
+
+    .main-content-title p {
+        font-size: 1.2em;
+    }
+
+    .footer {
+        font-size: 0.9em;
+    }
+    .main-content-btn{
+        font-size: 1.3em;
+        padding: 5px 25px;
+    }
+}
+
+@media screen and (max-width:285px) {
+    .main-title-2 {
+        font-size: 1.3em;
+    }
+
+    .main-content-title p {
+        font-size: 0.8em;
+    }
+
+    .footer {
+        font-size: 0.6em;
+    }
+
+    .main-content-btn{
+        font-size: 1.2em;
+        padding: 5px 25px;
     }
 }
