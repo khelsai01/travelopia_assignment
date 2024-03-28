@@ -43,6 +43,7 @@ travelopia_assignment/
 ![responsive](https://github.com/khelsai01/travelopia_assignment/assets/119441119/992ea430-cd40-48e8-a55d-5ed7508a44e0)
 
 ***Mobile screen***
+
 ![mobile2](https://github.com/khelsai01/travelopia_assignment/assets/119441119/26727596-144a-49b8-919a-f13c823bf445)
 
 ![mo](https://github.com/khelsai01/travelopia_assignment/assets/119441119/9d99dd4f-d8fb-452f-9050-57e78cef6a1a)
